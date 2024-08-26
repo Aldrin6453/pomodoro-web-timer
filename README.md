@@ -1,2 +1,2 @@
-[pomodoro-web-timer-kappa.vercel.app](url)
-[pomodoro-web-timer-aldrin-simmys-projects.vercel.app](url)
+[pomodoro-web-timer-kappa.vercel.app](pomodoro-web-timer-kappa.vercel.app)
+[pomodoro-web-timer-aldrin-simmys-projects.vercel.app](pomodoro-web-timer-aldrin-simmys-projects.vercel.app)
